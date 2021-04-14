@@ -1,5 +1,5 @@
 #ifndef frames
-#define framesssssssssssssssss
+#define frames
 
 
 const PROGMEM char frame1 [48 * 48 / 8] = {
